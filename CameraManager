@@ -1,1 +1,11 @@
 /
+public void OpenDoor()
+    {
+ ///
+    }
+
+    public void CloseDoor()
+    {
+     ///
+
+    }
